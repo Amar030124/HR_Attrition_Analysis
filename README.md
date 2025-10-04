@@ -100,6 +100,3 @@ Comparative analysis of attrition rates by gender.
 👤 Author : Amar Adagale
 📧 [ Email : amaradagale93@gmail.com ]
 💼 [LinkedIn Profile : www.linkedin.com/in/amaradagale ]
-**[Your Name]**  
-📧 **[Your Email]**  
-💼 **[LinkedIn Profile]**
